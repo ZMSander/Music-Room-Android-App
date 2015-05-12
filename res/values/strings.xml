@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fire Emblem Music Room</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_game_music">Game Music Activity</string>
+    <string name="fe1">Fire Emblem 1</string>
+    <string name="fe2">Fire Emblem 2- Gaiden</string>
+    <string name="fe3">Fire Emblem 3- Mystery of the Emblem</string>
+    <string name="fe4">Fire Emblem 4- Genealogy of the Holy War</string>
+    <string name="fe5">Fire Emblem 5- Thracia 776</string>
+    <string name="fe6">Fire Emblem 6- Binding Blade</string>
+    <string name="fe7">Fire Emblem 7- The Blazing Sword</string>
+    <string name="fe8">Fire Emblem 8- The Sacred Stones</string>
+    <string name="fe9">Fire Emblem 9- Path of Raidance</string>
+    <string name="fe10">Fire Emblem 10- Radiant Dawn</string>
+    <string name="fe11">Fire Emblem 11- Shadow Dragon</string>
+    <string name="fe12">Fire Emblem 12- New Mystery of the Emblem</string>
+    <string name="fe13">Fire Emblem 13- Awakening</string>
+
+</resources>
